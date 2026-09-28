@@ -1,5 +1,4 @@
 <div align="center">
-[![Medium](https://img.shields.io/badge/Medium-@ishaansingh2219-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaansingh2219)
 
 # Hey, I'm Ishaan 👋
 
@@ -11,7 +10,8 @@
 
 <a href="https://github.com/Ishaan-1767"><img src="https://img.shields.io/badge/GitHub-Ishaan--1767-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/ishaansingh18"><img src="https://img.shields.io/badge/LinkedIn-Ishaan%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="mailto:ishaansingh2219@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ishaansingh2219@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://medium.com/@ishaansingh2219"><img src="https://img.shields.io/badge/Medium-@ishaansingh2219-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 <br><br>
 
