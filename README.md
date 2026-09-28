@@ -1,4 +1,5 @@
 <div align="center">
+[![Medium](https://img.shields.io/badge/Medium-@ishaansingh2219-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaansingh2219)
 
 # Hey, I'm Ishaan 👋
 
